@@ -7,8 +7,8 @@ https://www.ceneo.pl/84514582#tab=reviews
 2. If response is OK, parse HTML page content into DOM structure
 3. Extract opinions and their components from DOM structure 
 4. Assign opinions with their components to complex data structures
-5. If there are more pages with pinions, repeat steps 1-5
-6. Save data dtructures with opinions into database
+5. If there are more pages with opinions, repeat steps 1-5
+6. Save data structures with opinions into database
 
 ## Structure of single opinion in Ceneo.pl
 |Component|Variable|Selector|
